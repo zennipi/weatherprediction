@@ -2,6 +2,8 @@
 
 This project presents a Bayesian model for predicting weather conditions based on historical hourly
 weather data.
+
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-green)
 ## Project Files
