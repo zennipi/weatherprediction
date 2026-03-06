@@ -1,6 +1,7 @@
 # Weather Prediction Project
 
-This project predicts weather patterns using historical data.
+This project presents a Bayesian model for predicting weather conditions based on historical hourly
+weather data.
 
 ## Project Files
 - `project.ipynb` – Main Jupyter Notebook containing analysis and predictions.
